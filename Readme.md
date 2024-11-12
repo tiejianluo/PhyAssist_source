@@ -1,7 +1,8 @@
 ```markdown
 # PhyAssist Source Code
 
-This repository contains the source code for PhyAssist, a project designed to fine-tune adapters on various mental health datasets to improve model performance across different domains.
+This repository contains the source code for PhyAssist, a project designed
+to fine-tune adapters on various mental health datasets to improve model performance across different domains.
 
 ---
 
